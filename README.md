@@ -18,6 +18,6 @@ This project is
 - Postman
 - ... and many others
 
-## dEVELOPMENT LOG
+## DEVELOPMENT LOG
 Version '0.1.0':
 - The first release
